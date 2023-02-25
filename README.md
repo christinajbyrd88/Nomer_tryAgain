@@ -31,13 +31,13 @@ taxonomies:
 #  enabled: false
 #
     - id: itis
-      enabled: true
+      enabled: false
       name: Integrated Taxonomic Information System
     - id: ncbi
-      enabled: true
+      enabled: false
       name: NCBI Taxonomy
     - id: discoverlife
-      enabled: true
+      enabled: false
       name: Discover Life Taxonomy
     - id: batnames
       enabled: false
@@ -46,7 +46,7 @@ taxonomies:
       enabled: false
       name: Catalogue of Life
     - id: gbif
-      enabled: false
+      enabled: true
       name: GBIF Backbone Taxonomy
     - id: globi
       enabled: false
@@ -55,13 +55,13 @@ taxonomies:
       enabled: false
       name: Index Fungorum
     - id: mdd
-      enabled: false
+      enabled: true
       name: Mammal Diversity Database
     - id: ott
       enabled: false
       name: Open Tree of Life Taxonomy
     - id: pbdb
-      enabled: false
+      enabled: true
       name: Paleobiology Database
     - id: plazi
       enabled: false
